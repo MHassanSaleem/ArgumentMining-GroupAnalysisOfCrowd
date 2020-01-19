@@ -1,1 +1,3 @@
 # ArgumentMining-GroupAnalysisOfCrowd
+
+This  respository is made to help us carrying out an investigation on the polarization of opinion regarding refugees and immigrants in the EU by us-ing machine learning and argument mining techniques. The focus of the researchis extracting argument-tweets from mixed Twitter data-sets and then doing analysis of collected tweets to find out the polarization in the opinion of people. For this purpose, relevant tweets from three EU countries, Germany, France, and Italy were collected. Based on the extracted data, supervised machine learning algorithm Naive Bayes Classifier was applied to classify the data in favor of or against the immigrants/refugees.
